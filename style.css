@@ -153,7 +153,7 @@ button {
   position: relative;
   margin-right: 7px;
   font-size: 12px;
-  padding: 3px;
+  padding: 5px;
   border: none;
   outline: none;
   background-color: transparent;
@@ -222,7 +222,7 @@ input[type=range]:focus {
 input[type=range]::-webkit-slider-runnable-track {
   width: 100%;
   cursor: pointer;
-  border-radius: 1.3px;
+  border-radius: 2.3px;
   -webkit-appearance: none;
   transition: all 0.4s ease;
 }
